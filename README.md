@@ -6,6 +6,6 @@ Currently in the 2nd of 3 semesters of my bachelor's, where I'll be deciding on 
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://itch.io/profile/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-eberhardt-618528206/)
+[![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://zaromaru.itch.io/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:noah.eberhardt@hotmail.com)
